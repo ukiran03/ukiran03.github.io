@@ -1,0 +1,3 @@
+[submodule "themes/hugo-narolean"]
+	path = themes/hugo-narolean
+	url = https://github.com/ukiran03/hugo-narolean.git

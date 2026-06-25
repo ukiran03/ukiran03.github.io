@@ -1,0 +1,10 @@
+en:
+  locale: en
+  label: "English"
+  weight: 1
+  # Optional: Coverage at the site level by language params.yaml in dateFormat
+  # params:
+  #   dateFormat:
+  #     long: "January 2, 2006"
+  #     medium: "Jan 2, 2006"
+  #     short: "01/02"
