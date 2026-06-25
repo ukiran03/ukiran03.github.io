@@ -35,7 +35,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ env.NODE_VERSION }}
-          cache: 'npm' # Automatically caches node_modules based on your package-lock.json
 
       - name: Setup Pages
         id: pages
