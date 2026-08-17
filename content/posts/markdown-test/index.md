@@ -120,11 +120,11 @@ const asyncFunction = async () => {
 
 ## Tables
 
-| Left Align | Center Align | Right Align |
-|:-----------|:------------:|------------:|
-| Content 1  | Content 2    | Content 3   |
-| Longer content | Medium    | Short       |
-| Data A     | Data B       | Data C      |
+| Left Align     | Center Align | Right Align |
+|:---------------|:------------:|------------:|
+| Content 1      |  Content 2   |   Content 3 |
+| Longer content |    Medium    |       Short |
+| Data A         |    Data B    |      Data C |
 
 ---
 

@@ -24,7 +24,6 @@ pagination:
   pagerSize: 6
   path: "page"
 
-
 taxonomies:
   category: categories
   tag: tags
