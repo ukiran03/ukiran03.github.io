@@ -15,7 +15,7 @@ links:
     url: "https://github.com"
     icon: "https://github.com/fluidicon.png"
     description: "The world's largest code hosting platform. "
-  
+
 
 ---
 
@@ -33,4 +33,3 @@ Hugo Narrow is a modern, clean, and minimal Hugo theme built with Tailwind CSS 4
 - Macy.js
 - gumshoe
 - ...
-
