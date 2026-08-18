@@ -3,8 +3,8 @@ dismissible: true
 title: "Home"
 author:
   name: "Ushakiran"
-  title: ""
-  description: "Self-taught engineer, humble learner."
+  title: "Self-taught engineer, humble learner."
+  description: "Welcome to my Blog! 👋"
   avatar: "/images/avatar.avif"
   social:
     - name: "GitHub"

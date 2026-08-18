@@ -2,7 +2,7 @@ baseURL: https://example.org/
 locale: en
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
-title: Hugo Narolean
+title: Ushakiran.
 theme: "hugo-narolean"
 
 hasCJKLanguage: false

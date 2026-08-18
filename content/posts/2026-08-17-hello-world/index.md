@@ -1,0 +1,36 @@
+---
+title: "Hello, world!"
+author: ["ukiran"]
+description: "My Frist blog"
+date: 2026-08-17T08:33:17+05:30
+categories: ["Personal"]
+type: "posts"
+draft: false
+---
+
+## Who Am I, and What Can You Expect Here? {#who-am-i-and-what-can-you-expect-here}
+
+I am a self-taught software engineer and a humble learner. While I earned my
+bachelor's degree in civil engineering, I'll save the story of the pivot for
+another time.
+
+My true interests—the things I love spending my waking hours on—are:
+
+Math
+: Even though I am far from calling myself a math expert, it has been
+    the one subject that has brought me pure joy since childhood.
+
+
+Computers &amp; Programming
+: It is inevitable to be blown away by how far we
+    have come in computer science in just under eight decades. I arrived late to
+    the party, but I am completely in awe of this field. For me, it is the joy
+    that comes from a _love of logic_.
+
+
+Cinema
+: My first love. I was drawn to the arts rather than logic from an
+    early age, and accessibility played a huge role in that connection.
+
+With that said, I am excited to use this platform to write about whatever
+crosses my mind, inspires me, or sparks my curiosity. Thank you for reading!

@@ -1,9 +1,9 @@
 # Basic site info with SEO
 description: "A modern, clean, and minimal Hugo theme built with Tailwind CSS 4.0. Support custom themes, dark mode, and responsive design."
 keywords: ["Hugo", "Blog", "Theme", "Technology", "Programming"]
-defaultAuthor: "Hugo Narolean"
+defaultAuthor: "Ushakiran"
 language: "en"
-shortName: "Hugo Narolean" # PWA
+shortName: "Ushakiran" # PWA
 images:
   - "/images/og-default.avif"
 
