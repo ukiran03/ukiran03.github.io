@@ -56,7 +56,7 @@ toc:
   position: "side" # Options: center | side
 
 # Default color scheme
-colorScheme: "default"
+colorScheme: "twitter"
 themes:
   default:
     name: "Default"
